@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarizAhmadBZ
 - 👀 I’m interested in game programming, but...
 - 🌱 I’m currently learning web and java
-- 💞️ I’m looking to collaborate on nothing for now
+- 💞️ I’m looking to collaborate on nothing for now,
   that's because I'm still learning at anything from scratch, I'm still zero to collab on your projects
 - 📫 How to reach me? Nope
   ...or maybe just contact me at discord, FarzBZ987#0968
